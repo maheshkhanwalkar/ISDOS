@@ -8,7 +8,8 @@ This GitHub repo is mainly used for archival purposes; however, feel free to bro
 the source and/or use it for your own purposes.
 
 The ISDOS source code is licensed under the Apache v2 License. The original source code mentions that it
-was under an **Inix Software General License**; however, that is no longer valid. See UPDATES in `src/`:
+is under the *Inix Software General License*; however, this license is no longer exists and all old source
+has been _automagically_ moved to the Apache v2 License - unless otherwise stated.
 
 **Note:** The original source code was ~~lost and the current result is reverse-engineered from old bootable
 floppy image extracted from a floppy-boot emulation ISO~~ found (yay!) and is now available. 
