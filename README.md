@@ -1,5 +1,5 @@
 # ISDOS
-My First 16-bit OS, made back in '13
+My First 16-bit OS, made back in 2013
 
 It is a OS that is 512 bytes (just a bootloader) that loads up and acts as a very
 basic text editor (though it cannot save anything)
