@@ -9,5 +9,5 @@ the source and/or use it for your own purposes.
 
 The ISDOS source code is licensed under the Apache v2 License. 
 
-**Note:** The original source code was lost and the current result is reverse-engineered from old bootable
-floppy image extracted from a floppy-boot emulation ISO. 
+**Note:** The original source code was ~~lost and the current result is reverse-engineered from old bootable
+floppy image extracted from a floppy-boot emulation ISO~~ found (yay!) and is now available. 
