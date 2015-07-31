@@ -7,9 +7,9 @@ basic text editor (though it cannot save anything)
 This GitHub repo is mainly used for archival purposes; however, feel free to browse through
 the source and/or use it for your own purposes.
 
-The ISDOS source code is licensed under the Apache v2 License. The original source code mentions that it
-is under the *Inix Software General License*; however, this license is no longer exists and all old source
-has been _automagically_ moved to the Apache v2 License - unless otherwise stated.
+The ISDOS source code (both the original and the updated versions) is licensed under the Apache v2 License. 
+
+**Clarification:** The original source code mentions that it is licensed under the *Inix Software General License*; however, that license no longer exists and all old source has been _automagically_ relicensed under the Apache v2 License - unless otherwise stated.
 
 **Note:** The original source code was ~~lost and the current result is reverse-engineered from old bootable
 floppy image extracted from a floppy-boot emulation ISO~~ found (yay!) and is now available. 
